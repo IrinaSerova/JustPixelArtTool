@@ -1,0 +1,43 @@
+body {
+	font-family: 'Righteous', cursive;
+	background-color: #338c00;
+	background-image: url("images/bg.png");
+	color: whitesmoke;
+	text-shadow: 2px 2px 3px darkblue;
+}
+
+h3 {
+	font-size: 2em;
+	margin: 1em;
+}
+
+#art {
+	display: table;
+	border-spacing: 1px;
+	background-color: black;
+	border: 5px solid darkblue;
+	margin: 0 auto;
+}
+
+#colors {
+	text-align: center;
+}
+
+.row {
+	display: table-row;
+}
+
+.pixel {
+	display: table-cell;
+	background-color: white;
+	width: 40px;
+	height: 40px;
+	margin: 0 auto;
+}
+
+.color {
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	border: 2px solid darkblue;
+}
