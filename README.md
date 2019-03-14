@@ -5,10 +5,12 @@
 ### 
 
 ## I Love JS
-|![Screenshot 1](https://github.com/IrinaSerova/JustPixelArtTool/blob/master/images/screenshot1.png) |
-![Screenshot 2](https://github.com/IrinaSerova/JustPixelArtTool/blob/master/images/screenshot2.png)
 
-
+| [![Screenshot 1](https://github.com/IrinaSerova/JustPixelArtTool/blob/master/images/screenshot1.png) ]
+(https://videoblocks.com)  | [![Screenshot 2](https://github.com/IrinaSerova/JustPixelArtTool/blob/master/images/screenshot2.png)] 
+(https://graphicstock.com) |
+|:---:|:---:|
+| http://videoblocks.com | http://audioblocks.com | 
 
 ![Screenshot 3](https://github.com/IrinaSerova/JustPixelArtTool/blob/master/images/screenshot3.png)
 ![Screenshot 4](https://github.com/IrinaSerova/JustPixelArtTool/blob/master/images/screenshot4.png)
